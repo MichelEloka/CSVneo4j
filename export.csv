@@ -1,0 +1,6 @@
+﻿n
+"(:Person {name: ""Emil"",from: ""Sweden"",kloutScore: 99})"
+"(:Person {learn: ""surfing"",name: ""Johan"",from: ""Sweden""})"
+"(:Person {name: ""Ian"",from: ""England"",title: ""author""})"
+"(:Person {name: ""Rik"",from: ""Belgium"",pet: ""Orval""})"
+"(:Person {name: ""Allison"",from: ""California"",hobby: ""surfing""})"
